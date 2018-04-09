@@ -1,3 +1,9 @@
 echo "# reactjs-practice" >> GitCommands.txt
 git init
-
+git add GitCommands.txt
+git commit -m "Added text file GitCommands.txt which will contain the Git Commands for various operations."
+git remote add origin https://github.com/shockwave336/reactjs-practice.git
+git push -u origin master
+type userID
+type Password
+Done
