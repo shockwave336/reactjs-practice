@@ -1,0 +1,3 @@
+echo "# reactjs-practice" >> GitCommands.txt
+git init
+
